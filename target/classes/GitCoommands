@@ -1,0 +1,6 @@
+git init
+git remote add origin {url репозитория)
+git status
+git add .
+git commit -m "[message)"
+git log
